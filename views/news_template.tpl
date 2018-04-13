@@ -29,7 +29,7 @@
 
       <div class="twothirds">
         <div class="container padded article_polar">
-          <div class="full"><img src="/images/polar-bear.jpg"/ style="width:100%;"></div>
+         <img src="/images/polar-bear.jpg"/ style="width:100%;">
       	  <div class="container padded article_head">
             <div class="full">
       		    <h3>Polar bears finding it harder to catch enough seals to meet energy demands</h3>
@@ -40,7 +40,7 @@
 
             </div>
       	  </div>
-          <div class="full">
+          
           <div class="article_txt container">
 
             <div class="half article_desc">
@@ -61,7 +61,7 @@
 
             </div>
           </div>
-          </div>
+        
 
         </div><!--END article Cont-->
       </div>
@@ -97,7 +97,6 @@
   <div class="container white">
     <div class="fill">
       <div class="padded">
-        <div class="full">
           <div class="container article_preview">
             <br>
             
@@ -121,7 +120,7 @@
             <div class="third"
               <div class="container" >
               <div class="container" id = "maitra_cont"><img src="/images/maitra.jpg" id="maitra"></div>
-              <br><br><b>2018 Sidhartha Maitra Memorial Lecture</b>
+              <br><b>2018 Sidhartha Maitra Memorial Lecture</b>
               <p>Diplomacy & the Feminist Voice featuring Nirupama Menon Rao: Ambassador, Foreign Secretary, Scholar, Poet   Ambassador Rao will examine the history of Women in Diplomacy, the idea of Feminist Foreign Policy as an approach to global affairs, and how Public Diplomacy through Social Media transcends gender in foreign affairs.
               <a href="https://events.ucsc.edu/event/4729" style="navy">Read more</a></p>
             
@@ -130,7 +129,6 @@
 
             <br><br>
           </div>
-        </div>
     
       </div>
     </div>
