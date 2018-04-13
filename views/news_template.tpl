@@ -109,7 +109,7 @@
             </div>
 
             <div class="third">
-              <div class="container" id ="laird"><img src="/images/laird.jpg" style="width: 100%; height: 39%"></div>
+              <div class="container"><img src="/images/laird.jpg" style="width: 100%; height: 39%"></div>
               
               <br><b> John Laird: A trailblazing public servant </b>
               <p>John Laird has watched his political capital rise over the years. In 1983, while serving on the Santa Cruz City Council, he became one of the first openly gay mayors in the United States. He went on to serve three terms as a California state Assemblyman before starting his current job as California's Secretary for Natural Resources. 
