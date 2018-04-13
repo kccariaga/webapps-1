@@ -24,7 +24,7 @@
   <br>
 
 <!-- ************************ TOP PORTION OF WEBPAGE *************************-->
-  <div class="full">
+
     <div class="container top_portion">
 
       <div class="twothirds">
@@ -90,7 +90,7 @@
       </div>
 
     </div> <!--END top_portion-->
-  </div>
+
 
   <!-- ************************ BOTTOM PORTION *************************-->
 
@@ -104,23 +104,24 @@
             <div class="third">
               <div class="full"><img src="/images/okinawa.jpg" style="width: 100%;"></div>
             
-              <h5>Alumni: travel to Japan with us</h5>
+              <br><b>Alumni: travel to Japan with us</b>
               <p>In a first-of-its-kind UC Santa Cruz travel experience, alumni are invited on a Japanese adventure, led by Professor Alan Christy, co-director of the Gail Project. Participants will delve deeply into the history of Okinawa.
               <a href="https://thi.ucsc.edu/alumni-travel-japan-gail-project/" style="navy">Read more</a></p>
             </div>
 
             <div class="third">
-              <div class="full"><img src="/images/laird.jpg" style="width: 100%;"></div>
-              <h5>John Laird: A trailblazing public servant</h5>
+              <div class="container" id ="laird"><img src="/images/laird.jpg" style="width: 100%; height: 39%"></div>
+              
+              <br><b> John Laird: A trailblazing public servant </b>
               <p>John Laird has watched his political capital rise over the years. In 1983, while serving on the Santa Cruz City Council, he became one of the first openly gay mayors in the United States. He went on to serve three terms as a California state Assemblyman before starting his current job as California's Secretary for Natural Resources. 
               <a href="https://news.ucsc.edu/2018/01/year-of-alumni-laird-john.html" style="navy">Read more</a></p>
             </div>
 
           
-            <div class="third">
-              <div class="container">
-              <img src="/images/maitra.jpg" id="maitra"></div>
-              <h5>2018 Sidhartha Maitra Memorial Lecture</h5>
+            <div class="third"
+              <div class="container" >
+              <div class="container" id = "maitra_cont"><img src="/images/maitra.jpg" id="maitra"></div>
+              <br><br><b>2018 Sidhartha Maitra Memorial Lecture</b>
               <p>Diplomacy & the Feminist Voice featuring Nirupama Menon Rao: Ambassador, Foreign Secretary, Scholar, Poet   Ambassador Rao will examine the history of Women in Diplomacy, the idea of Feminist Foreign Policy as an approach to global affairs, and how Public Diplomacy through Social Media transcends gender in foreign affairs.
               <a href="https://events.ucsc.edu/event/4729" style="navy">Read more</a></p>
             
